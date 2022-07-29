@@ -11,6 +11,7 @@
 
 ### September
  - [refactor.tech]() - September 14-16 in Atlanta, GA
+ - [Grace Hopper Celebration](https://www.gracehoppercelebration.com/?utm_source=Website&utm_medium=linkedin&utm_campaign=website-reg-bizz) - September 20-23, 2022
  - [Strangeloop](https://thestrangeloop.com/) - September 22-24, 2022
 
 ### October
