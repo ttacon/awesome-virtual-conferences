@@ -15,6 +15,7 @@
  - [Strangeloop](https://thestrangeloop.com/) - September 22-24, 2022
 
 ### October
+ - [ElasticOn Virtual](https://www.elasticon.com/event/2807197b-14f8-4864-ad07-e31163347cbb/summary) - October 4, 2022
  - [HashiConf Global](https://hashiconf.com/global/) - October 4-6, 2022
  - [GopherCon](https://www.gophercon.com/) - October 6-8, 2022
  - [Google Next](https://cloud.withgoogle.com/next) - October 11-13, 2022
