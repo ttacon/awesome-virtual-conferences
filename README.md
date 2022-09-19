@@ -19,6 +19,7 @@
  - [HashiConf Global](https://hashiconf.com/global/) - October 4-6, 2022
  - [GopherCon](https://www.gophercon.com/) - October 6-8, 2022
  - [Google Next](https://cloud.withgoogle.com/next) - October 11-13, 2022
+ - [Firebase Summit](https://firebase.google.com/summit) - October 18, 2022
  - [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - October 24-26, 2022
 
 ### November
