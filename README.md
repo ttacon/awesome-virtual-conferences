@@ -32,4 +32,5 @@
  - [RubyConf](https://rubyconf.org/) - November 29-Dec 1, 2022
 
 ### December
- - 
+ - [CIO & CISO: The Innovation Agenda Summit](https://events.foundryco.com/event-series/the-innovation-agenda-december-2022/) - December 7, 2022
+
