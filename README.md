@@ -8,6 +8,8 @@
 
 ### February
 
+- [ElasticOn - Public Sector](https://www.elasticon.com/event/be799612-a32f-4f7c-9b7b-c398cab9d0ac/summary) - February 1, 2022
+
 ### March
 
 ### April
@@ -54,13 +56,17 @@
 - [Security@](https://securityat.hackerone.events/2022/2167693) - October 13, 2022
 - [Firebase Summit](https://firebase.google.com/summit) - October 18, 2022
 - [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - October 24-26, 2022
+- [ElasticOn - Singapore](https://www.elasticon.com/event/0093d67e-9371-4648-bc36-bc3dd272ecd7/summary) - October 27, 2022
 
 ### November
 
+- [ElasticOn - New York](https://www.elasticon.com/event/ccdcb931-6512-4913-8a4e-cfdf3797ac2e/summary) - November 2, 2022
 - [Signal: Twilio](https://www.signal2022.com/twilio) - November 2-4, 2022
 - [GitHub Universe](https://www.githubuniverse.com/) - November 9-10, 2022
 - [Open Source Monitoring](https://osmc.de/) - November 14-16, 2022
+- [ElasticOn - Amsterdam](https://www.elasticon.com/event/219c94f3-d39d-4b92-889e-9f5033bce099/summary) - November 22, 2022
 - [RubyConf](https://rubyconf.org/) - November 29-Dec 1, 2022
+- [ElasticOn - Tokyo](https://www.elasticon.com/event/d10b9524-5bd9-4355-aa2e-f01b63580506/summary) - November 30, 2022
 
 ### December
 
