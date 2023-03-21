@@ -42,6 +42,8 @@
 
 ### August
 
+- [Google Cloud Next '23](https://cloud.withgoogle.com/next) - August 29-31, 2023
+
 ### September
 
 - [Strangeloop](https://ti.to/strange-loop/2023) - September 21-22, 2023
