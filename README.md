@@ -52,6 +52,8 @@
 
 ### November
 
+- [GitHub Universe](https://githubuniverse.com/) - November 8-9, 2023
+
 ### December
 
 ## 2022
