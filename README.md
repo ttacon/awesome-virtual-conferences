@@ -50,6 +50,8 @@
 
 ### October
 
+- [Cypress Conf](https://www.airmeet.com/e/0512bb50-2c7a-11ee-b441-055bfa7b9c0e) - October 17, 2023
+
 ### November
 
 ### December
